@@ -1,6 +1,6 @@
 # Analysis routines for "An integrated framework for quantifying immune-tumour interactions in a 3D co-culture model"
 
-##Usage notes
+## Usage notes
 Matlab routines (TcellTraffickingAnalysis.m) perform the segmentation-based trafficking analysis.
 Edit lines 6-10 for the path to the data. The code assumes files will in separate folders for each experiment and time point, and each each folder files will be listed by group and sample.
 
