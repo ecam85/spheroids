@@ -15,3 +15,6 @@ The code can be easily scripted to produce tables of results for a collection of
 
 ### Code authorship:
 E. Campillo-Funollet, F. Yang 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4719445.svg)](https://doi.org/10.5281/zenodo.4719445)
+
